@@ -1,5 +1,1 @@
-{{#user}}
-Name: Dheeraj VArshney
-Skills: HTML, CSS, JS, Python, R, c++, BootStrap, Wordpress,ML with Python
-Email: dheerajvarshney74@gmail.com
-{{/user}}
+
